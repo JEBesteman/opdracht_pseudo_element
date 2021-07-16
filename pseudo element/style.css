@@ -29,7 +29,7 @@ h1::before,
 h1::after {
   background-color: #4a90e2;
   content: "";
-  display: inline-block;
+  display: block;
   height: 30px;
   width: 30px;
   position: absolute;
